@@ -1,0 +1,9 @@
+public class point
+{
+  int value;
+  
+  public point(int i)
+  {
+    
+  }
+}
